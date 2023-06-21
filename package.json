@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "chat",
+    "rest"
+  ],
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "devDependencies": {},
+  "nohoist": [
+  ],
+  "resolutions": {
+  }
+}
